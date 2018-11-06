@@ -1,11 +1,11 @@
 {
-  "title": "Intro To BlueData Application Workbench.",
-  "description": "Introduction to building Apps with BlueData Workbench for BlueData's EPIC platform.",
+  "title": "Creating CentOS 7 base image.",
+  "description": "Creating a custom CentOS 7 base image",
   "difficulty": "beginner",
   "time": "10 minutes",
   "details": {
     "steps": [
-    { "title": "Step 1 - Intro to Bluedata workbench","text": "step1.md"}
+     { "title": "Step 1 - Creating CentOS 7 base image ","text": "step1.md"}
     ],
     "intro": {
       "text": "intro.md",
