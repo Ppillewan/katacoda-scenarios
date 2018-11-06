@@ -8,11 +8,11 @@ Step 1
 ## Task 2 of 6
 Step 2
 
-`mkdir /tmp/sample`{{execute}}
+`mkdir /tmp/samples`{{execute}}
 ## Task 3 of 6
 Step 3
 
-`cd /tmp/sample`{{execute}}
+`cd /tmp/samples`{{execute}}
 
 ## Task 4 of 6
 Step 4
