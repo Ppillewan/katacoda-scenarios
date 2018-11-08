@@ -13,9 +13,15 @@ Create a skeleton file structure with the appropriate directories for creating t
 `ls -R`{{execute}}
 
 Make sure the folllwing files and directories are present:
+
   appconfig/appjob
+  
   appconfig/logging.sh
+  
   appconfig/macros.sh
+  
   appconfig/startscript
+  
   appconfig/utils.sh
+  
   image/
