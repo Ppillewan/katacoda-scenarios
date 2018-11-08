@@ -1,5 +1,3 @@
-## Step 5
-
 Verify the created image
 
 `docker images`{{execute}}
