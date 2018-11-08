@@ -1,5 +1,3 @@
-## Step 3
-
 Execute the following commands:
 
 Here we have used
