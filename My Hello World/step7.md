@@ -10,3 +10,5 @@ Copy the .wb file from  the sample data to the helloworld directory
 View the content of the .wb file
 
 `cat -n ~/src/catalog/helloworld/helloworld-app.wb | more`{{execute}}
+
+Press "Enter" till you reach the end of the file
