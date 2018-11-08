@@ -1,3 +1,4 @@
+
 ## Step 06 - Creating index.html file
 
 Create the index.html 
