@@ -1,6 +1,22 @@
 Let's build a simple application.
 
 ## Task 1 of 6
+`yum install -y python-pip`{{execute}}
+
+`pip install --upgrade pip`{{execute}}
+
+`pip install --upgrade setuptools`{{execute}}
+
+`pip install --upgrade requests`{{execute}}
+
+`pip install --upgrade argparse`{{execute}}
+
+`pip install --upgrade bdworkbench`{{execute}}
+
+`yum install -y epel-release`{{execute}}
+
+`yum install -y python-requests python-setuptools python-argparse python-pip`{{execute}}
+
 Step 1
 
 `yum install -y git`{{execute}}
@@ -53,10 +69,8 @@ Step 5
 
 `cat staging/helloworld-centos.json`{{execute}}
 
-`cp ~/src/catalog/helloworld/deliverables/bdcatalog-centos7-bluedata-helloworld-3.0.bin`{{execute}}
+`cd deliverables`{{execute}}
 
-`chgrep apache /srv/bluedata/catalog/<bundle>.bin`{{execute}}
-
-`chmod ug+rx /srv/bluedata/catalog/<bundle>.bin`{{execute}}
+`ls`{{execute}}
 
 Congrats!
