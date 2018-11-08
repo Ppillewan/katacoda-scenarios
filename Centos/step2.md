@@ -1,5 +1,3 @@
-## Step 2
-
 Retrieve the BlueData base image for CentOS 7
 
 `bdwb --baseimg centos7`{{execute}}
@@ -12,4 +10,4 @@ List of contents
 
 `ls -a`{{execute}}
 
-Make sure the Buil.sh, Makefile and Template are present. 
+Make sure the Build.sh, Makefile and Template are present. 
