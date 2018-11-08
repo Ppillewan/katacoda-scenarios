@@ -1,5 +1,5 @@
 
-## Step 11 - HelloWorld-centos.json file
+## Step 09 - HelloWorld-centos.json file
 
 View the content of helloworld-centos.json file
 
