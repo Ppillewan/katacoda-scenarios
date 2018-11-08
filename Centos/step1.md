@@ -1,5 +1,7 @@
 Let's build a CentOS 7 base image.
 
+## Step 1
+
 Create a directory for Base Images and navigate to it
 
 `mkdir -p ~/src/base_images.`{{execute}}
