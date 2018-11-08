@@ -1,3 +1,6 @@
+
+## Step 10 - Verifying the created .bin file
+
 By executing the .wb file a new directory is created named as deliverables
 
 `cd deliverables`{{execute}}
