@@ -1,3 +1,4 @@
+
 ## Step 07 - Creating Logo file
 
 Load the logo file
